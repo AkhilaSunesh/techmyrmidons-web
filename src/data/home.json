@@ -64,6 +64,12 @@
       "technology": "foss",
       "logo": "foss.png",
       "folderName": "foss"
+    },
+    {
+      "technology": "Cyber Security",
+      "logo": "cybersec.png",
+      "folderName": "cybersec"
     }
+    
   ]
 }
